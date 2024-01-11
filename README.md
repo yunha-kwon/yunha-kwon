@@ -50,7 +50,7 @@
 
 <div>
   <a href="https://velog.io/@cherrymaru/posts"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> <a href="https://velog.io/@cherrymaru/posts"> 
-<a href="mailto:carbonsindh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=carbonsindh@gmail.com"/></a>
+<a href="mailto:yunha010408h@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=yunha010408@gmail.com"/></a>
 <div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
