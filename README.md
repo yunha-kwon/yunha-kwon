@@ -50,7 +50,6 @@
 
 <div>
   <a href="https://velog.io/@cherrymaru/posts"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> <a href="https://velog.io/@cherrymaru/posts"> 
-<a href="https://cardroid.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:carbonsindh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=carbonsindh@gmail.com"/></a>
 <div>
 
