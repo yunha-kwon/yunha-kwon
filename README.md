@@ -19,7 +19,7 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/${yunha-kwon}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${yunha-kwon}&hide=${ture}&hide_title=${ture}&show_icons=${ture}&include_all_commits=${ture}&theme=${nord}" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${ellen4421}&hide=${ture}&hide_title=${ture}&show_icons=${ture}&include_all_commits=${ture}&theme=${nord}" />
   </a>
 </p>
 
