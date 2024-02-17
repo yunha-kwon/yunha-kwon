@@ -17,7 +17,7 @@
 
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ellen4421)](https://solved.ac/ellen4421)
-[![Yunha's github stats](https://github-readme-stats.vercel.app/api?username=yunha)](https://github.com/yunha-kwon/yunha-kwon)
+[![Yunha's github stats](https://github-readme-stats.vercel.app/api?username=yunha)](https://github.com/yunha-kwon/Kwonjoonhub)
 
 
 
