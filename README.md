@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=e5b3ce&text=💗Welcome%20to%20Yunha's%20GitHub💗%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
+  [![Hits](https://hits.yunha-kwon.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/yunha-kwon)
   
   
 ## ✨ My Profile 
