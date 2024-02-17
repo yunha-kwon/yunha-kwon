@@ -15,9 +15,13 @@
 
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ellen4421)](https://solved.ac/ellen4421)
-[![Yunha's github stats](https://github-readme-stats.vercel.app/api?username=yunha)](https://github.com/yunha-kwon/KwonjoonHub)
-
-
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/${yunha-kwon}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${yunha-kwon}&hide=${ture}&hide_title=${ture}&show_icons=${ture}&include_all_commits=${ture}&theme=${nord}" />
+  </a>
+</p>
 
  ## 🛠 지금까지 배운 것들
 </details>
