@@ -29,6 +29,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yunha-kwon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 <img src="https://github.com/yunha-kwon/yunha-kwon/blob/output/github-snake-dark.svg" width="100%">
+ 
  ## 🛠 지금까지 배운 것들
 </details>
 <div>
