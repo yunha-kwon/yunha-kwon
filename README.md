@@ -13,7 +13,7 @@
   💻 삼성 청년 SW 아카데미 (SSAFY) 11기 ~ing <br>
   🌱 금융권 백엔드 개발자 희망
   
-  #### 🏅 백준 골드4 달성 !! 골드3을 향해 달려가는 중...
+  #### 🏅 백준 골드3 달성 !! 골드2를 향해 달려가는 중...
 
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ellen4421)](https://solved.ac/ellen4421)
