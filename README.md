@@ -10,10 +10,10 @@
  
 
   🎓 경북대학교 영어영문학 / 컴퓨터공학(글로벌sw학부) 졸업  <br>
-  💻 삼성 청년 SW 아카데미 (SSAFY) 11기 ~ing <br>
+  💻 삼성 청년 SW 아카데미 (SSAFY) 11기 <br>
   🌱 금융권 개발자 희망
   
-  #### 🏅 백준 골드3 달성 !! 골드2를 향해 달려가는 중...
+  #### 🏅 백준 골드2 달성 !! 골드1을 향해 달려가는 중...
 
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ellen4421)](https://solved.ac/ellen4421)
