@@ -1,5 +1,6 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:fbc2eb,100:a6c1ee&text=CHA%20SANG%20GON&fontColor=CC99FF&animation=blinking)
+
+<div align="center">
   
 ## ✨ My Profile 
   
